@@ -1,0 +1,201 @@
+Polska
+Niemcy
+Francja
+Włochy
+Hiszpania
+Stany Zjednoczone
+Kanada
+Japonia
+Chiny
+Brazylia
+Australia
+Egipt
+Indie
+Rosja
+Meksyk
+Argentyna
+Republika Południowej Afryki
+Turcja
+Grecja
+Szwecja
+Norwegia
+Wielka Brytania
+Ukraina
+Wietnam
+Nowa Zelandia
+Pizza
+Sushi
+Lasagne
+Paella
+Bigos
+Pierogi
+Kebab
+Tacos
+Curry
+Burger
+Spaghetti
+Zupa pomidorowa
+Schabowy
+Gołąbki
+Rosół
+Kotlet mielony
+Sałatka grecka
+Frytki
+Naleśniki
+Gulasz
+Ratatouille
+Pad Thai
+Pho
+Hummus
+Carbonara
+Stół
+Krzesło
+Łóżko
+Sofa
+Telewizor
+Lampa
+Dywany
+Zasłony
+Półka
+Komputer
+Lodówka
+Kuchenka
+Pralka
+Zmywarka
+Odkurzacz
+Lustro
+Obraz
+Kwiaty
+Książki
+Poduszki
+Koc
+Filiżanka
+Talerz
+Widelec
+Nóż
+Samochód
+Autobus
+Pociąg
+Rower
+Motocykl
+Tramwaj
+Metro
+Samolot
+Statek
+Prom
+Hulajnoga
+Rower elektryczny
+Skuter
+Taksówka
+Wózek widłowy
+Helikopter
+Balon
+Segway
+Quad
+Dorożka
+Gondola
+Kolejka linowa
+Rakieta kosmiczna
+Łódź podwodna
+Sanka
+Pies
+Kot
+Koń
+Krowa
+Świnia
+Owca
+Kura
+Kaczka
+Gęś
+Ryba
+Wąż
+Ptak
+Lew
+Tygrys
+Słoń
+Żyrafa
+Zebra
+Małpa
+Niedźwiedź
+Wilk
+Lis
+Królik
+Chomik
+Papuga
+Delfin
+Woda
+Kawa
+Herbata
+Sok pomarańczowy
+Sok jabłkowy
+Cola
+Fanta
+Sprite
+Piwo
+Wino
+Wódka
+Whisky
+Rum
+Gin
+Tequila
+Lemoniada
+Kakao
+Mleko
+Koktajl
+Smoothie
+Yerba Mate
+Kombucha
+Ayran
+Kwas chlebowy
+Oranżada
+Piłka nożna
+Koszykówka
+Tenis
+Pływanie
+Lekkoatletyka
+Siatkówka
+Piłka ręczna
+Hokej na lodzie
+Boks
+Judo
+Bieganie
+Kolarstwo
+Narciarstwo
+Snowboard
+Skoki narciarskie
+Formuła 1
+Żużel
+Kajakarstwo
+Wioślarstwo
+Gimnastyka
+Szachy
+Golf
+Rugby
+Baseball
+Krykiet
+Lekarz
+Nauczyciel
+Inżynier
+Programista
+Prawnik
+Policjant
+Strażak
+Pielęgniarka
+Kucharz
+Kelner
+Sprzedawca
+Kierowca
+Elektryk
+Hydraulik
+Stolarz
+Fryzjer
+Kosmetyczka
+Aktor
+Muzyk
+Artysta
+Dziennikarz
+Fotograf
+Sekretarka
+Księgowy
+Architekt
+
